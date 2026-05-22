@@ -1,4 +1,4 @@
-The one developer tools is a new toolkit for developers.
+One Developer Tools is a project with new improvements coming soon; it's a website containing various web tools, from developer tools to tools for "normal" use.
 
 https://www.onedevelopertools.com/
 
